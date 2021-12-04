@@ -5,7 +5,7 @@
 
 + ### keystroke: 9
 
-### `G W i " <End> " <Esc> ZZ`
+### `*G W i " <End> " <Esc> ZZ*`
 
 + `G`: 맨 마지막으로 이동
 
