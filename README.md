@@ -55,13 +55,13 @@
 
 ### `:%s/y1/abs(y1) <CR> <C-A> <C-A> <C-A> <Up> . . <Up> . f1 . <Down> . . <Down> . . . fk r g <Up> r r <Up> r b f1 <C-A> <Down> . . <Down> . . .  ZZ`
 
-`:%s/str1/str2`: 모든 str1을 str2로 치환
++ `:%s/str1/str2`: 모든 str1을 str2로 치환
 
 + `ctrl + a`: 커서 다음에 위치한 숫자를 찾아내 1증가
 
 + `.`: 바로 전에 수행한 명령을 반복 수행시키는 명령어
 
-+ `f+str`: str 앞으로 이동
++ `f + str`: str 앞으로 이동
 
 + `r`: 한 문자 치환
 
@@ -75,4 +75,4 @@
 
 + `a`: 현재 커서 위치 뒤에 텍스트 추가
 
-+ `ctrl+N`: 자동완성
++ `ctrl + N`: 자동완성
