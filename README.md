@@ -3,7 +3,7 @@
 # 1) Add quotes to ansible playbook
 ![vimgolf_01](https://user-images.githubusercontent.com/93031435/144705536-96fb2c6b-86d0-4558-9d1c-55aece57faa7.gif)
 
-`G W i " <End> " <Esc> ZZ`
+# `G W i " <End> " <Esc> ZZ`
 
 + `G`: 맨 마지막으로 이동
 
