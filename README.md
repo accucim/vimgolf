@@ -15,7 +15,7 @@
 
 + `ZZ`: 저장
 
-
+---
 # 2) simple replacements
 ![vimgolf_02](https://user-images.githubusercontent.com/93031435/144705541-c69fc914-b072-4ecf-a0f6-3f7922cc8a03.gif)
 
