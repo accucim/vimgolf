@@ -5,11 +5,16 @@
 
 `G W i " <End> " <Esc> ZZ`
 
-`G`: 맨 마지막으로 이동
-`W`: 공백으로 이동
-`i`: 입력모드로 전환
-`esc`: 명령모드로 전환
-`ZZ`: 저장
++ `G`: 맨 마지막으로 이동
+
++ `W`: 공백으로 이동
+
++ `i`: 입력모드로 전환
+
++ `esc`: 명령모드로 전환
+
++ `ZZ`: 저장
+
 
 # 2) simple replacements
 ![vimgolf_02](https://user-images.githubusercontent.com/93031435/144705541-c69fc914-b072-4ecf-a0f6-3f7922cc8a03.gif)
